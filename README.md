@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **pbejagamwar@hawk.iit.edu**
 
+<img align ="right" alt = "Coding" width = "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0U4IF_0yKXXF8Bul46ij6P&ust=1703111005650000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIC4nIfFnIMDFQAAAAAdAAAAABAD" >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-bejagamwar-44135711b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-bejagamwar-44135711b" height="30" width="40" /></a>
